@@ -12,7 +12,7 @@ Assets needed:
 | cat meowing |	record |
 | cat food in bowl |	record |
 | coffee maker |	record |
-| brushing teeth	| stock |
+| brushing teeth	| stock | https://freesound.org/s/501233/ |
 | front door & keys |	record |
 | foot steps on stairs	| record |
 | city/street noises	| stock |
