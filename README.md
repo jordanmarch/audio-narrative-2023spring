@@ -1,2 +1,3 @@
-# audio-narrative-2023spring
-where my audio narrative will be created
+my audio narrative idea and plan:
+idea 1:
+For my audio narrative I am planning on running through my morning routine/walk to class but in a sort of futuristic world. This idea is kind of inspired by the movie Her, there will be a virtual assistant speaking throughout the routine and assisting me along the way. I’ll get ready, walk down Forbes, etc. etc. but it’ll be condensed and not real time. All will be well for most of the audio, until the end when reality gets confusing and the virtual assistants voice gets wonky and morphs into a human voice. Listeners will realize I overslept, was dreaming, and now my roommate is waking me in a frenzy. 
