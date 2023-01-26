@@ -8,6 +8,7 @@ Assets needed:
 | virtual voice  | stock/generate?  |
 | heater | record |
 | alarm noise | https://freesound.org/s/501881/ |
+| turning alarm off | record |
 | bed sheets | https://freesound.org/s/468073/ |
 | blinds opening |	record |
 | cat meowing |	record |
