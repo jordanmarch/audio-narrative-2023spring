@@ -1,20 +1,21 @@
 Assets needed:
 | SOUND  | SOURCE |
 | ------------- | ------------- |
-| virtual voice  | stock/generate?  |
+| virtual voice  | via https://ttsmp3.com/  |
 | heater | record |
 | alarm noise | https://freesound.org/s/501881/ |
 | turning alarm off | record |
 | bed sheets | https://freesound.org/s/468073/ |
 | blinds opening |	record |
-| cat meowing |	record |
+| foot steps carpet | https://freesound.org/s/179714/ |
+| foot steps tile | record |
+| cat meow |	https://freesound.org/s/368006/ |
 | cat food in bowl |	record |
-| coffee maker |	record |
-| brushing teeth | https://freesound.org/s/501233/ |
+| coffee making |	record |
+| straw ice | https://freesound.org/s/464144/ |
 | front door & keys |	record |
 | foot steps on stairs	| record |
-| city/street noises	| stock |
+| forbes noises	| record |
 | crosswalk sounds |	record |
-| glitch sounds?	| stock |
 | roommate’s voice	| record |
-
+| my voice | record |
