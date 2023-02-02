@@ -19,3 +19,4 @@ Assets needed:
 | crosswalk sounds |	me | record |
 | roommate’s voice	| me | record |
 | my voice | me | record |
+| song | [Seth_Makes_Sounds](https://freesound.org/people/Seth_Makes_Sounds/) | [Dusty Lofi Song Thingy](https://freesound.org/people/Seth_Makes_Sounds/sounds/666721/) | [CC 0](https://creativecommons.org/publicdomain/zero/1.0/) |
