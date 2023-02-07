@@ -1,4 +1,4 @@
-**"Wake Me in The Future" - My Final Audio Narrative:**
+# **"Wake Me in The Future" - My Final Audio Narrative:**
 
 My soundscape, “Wake Me in The Future”, takes listeners through a morning in my life on a school day but with a twist. I have a virtual voice assistant guiding me through the motions of getting up, getting ready, getting out the door, and getting to class. However, in the end listeners find out the futuristic reality was in fact not reality; it was all a dream, and I overslept.
 
@@ -8,7 +8,7 @@ All credits and sources can be found on my [assets page](https://github.com/jord
 
 [aup3 Final Copy](https://github.com/jordanmarch/audio-narrative-2023spring/blob/main/audionarrative.aup3).
 
-**My audio narrative idea and plan:**
+**My original audio narrative idea and plan:**
 
 For my audio narrative I am planning on running through my morning routine/walk to class but in a sort of futuristic world. This idea is kind of inspired by the movie Her, there will be a virtual assistant speaking throughout the routine and assisting me along the way. I’ll get ready, walk down Forbes, etc. etc. but it’ll be condensed and not real time. All will be well for most of the audio, until the end when reality gets confusing and the virtual assistants voice gets wonky and morphs into a human voice. Listeners will realize I overslept, was dreaming, and now my roommate is waking me in a frenzy. 
 
