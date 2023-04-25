@@ -17,7 +17,7 @@ For my audio narrative I am planning on running through my morning routine/walk 
 So far I have pieced together the very beginnings of my story. In the preview you hear my heater turn on, which is followed by my alarm going off and being turned off, and bed sheets rustling. I've been recording sounds I need to move forward. My next steps are adding those to the audacity project and sourcing more sounds. I added the recording of feeding my cat to the project, but need to fill in the gap between the alarm going off and that. I will include opening my blinds, foot steps (possibly from carpet to hardwood), and cat meows. I am hoping to do more with the audio being left/right to try and immitate what I hear each morning and to pull the listener into the story, but my headphones weren't working so I need to figure that out first. 
 
 
-**Reflection**
+**Reflection:**
 
 For my soundscape, “Wake Me in The Future”, I chose to take listeners through a morning in my life on a school day but with a twist. I decided to have a virtual voice assistant guide me through the motions of getting up, getting ready, getting out the door, and getting to class. However, in the end, listeners find out the futuristic reality was in fact not reality; it was all a dream, and I overslept. This was my first experience truly using an audio editor aside from messing around on garage band in middle school. My main goal was to become comfortable with the basics of Audacity and learn a few special tools and effects, which I think I achieved.  
 
